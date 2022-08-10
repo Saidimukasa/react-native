@@ -146,3 +146,4 @@ React Native documentation is Creative Commons licensed, as found in the [LICENS
 [l]: https://github.com/facebook/react-native/blob/HEAD/LICENSE
 [ld]: https://github.com/facebook/react-native/blob/HEAD/LICENSE-docs
 This frame work is easy when you have ever dived into javascript and React js
+it's Faster 
