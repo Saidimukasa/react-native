@@ -112,7 +112,7 @@ Facebook has adopted a Code of Conduct that we expect project participants to ad
 Please read the [full text][code] so that you can understand what actions will and will not be tolerated.
 
 [code]: https://code.fb.com/codeofconduct/
-
+One can use Codeblocks
 ### [Contributing Guide][contribute]
 
 Read our [**Contributing Guide**][contribute] to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to React Native.
